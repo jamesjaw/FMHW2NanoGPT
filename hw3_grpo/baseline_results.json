@@ -1,0 +1,721 @@
+{
+  "prompts": [
+    "I:\nWhy, Bucking",
+    " in this waning",
+    "ny tape,\nOr lac",
+    "usiness?\n\nQUEEN",
+    ": yet if thou s",
+    "er.\n\nKING RICHA",
+    "m: let him be r",
+    "\nNo, holy fathe",
+    " new-deliver'd ",
+    "ds, life and al",
+    ", Guilty! guilt",
+    "'s unprofitable",
+    "self as false t",
+    "the people, who",
+    "to Escalus and ",
+    "ef can speak no",
+    ",\nThe flowers f",
+    "l I live in hop",
+    "vious streaks\nD",
+    "at ugly sights ",
+    "should fear to ",
+    " God, 'tis sham",
+    "ake me grow:\nCo",
+    "n a set hand fa",
+    "I am a poor fel",
+    "y queen.\n\nGLOUC",
+    "nd says a wizar",
+    "f him\nTo be a v",
+    "ts.\nTo Bolingbr",
+    "blush or no: ho",
+    "cuse\nThis deadl",
+    "man best; I'll ",
+    "w rung.\n\nDUKE V",
+    "ister to poison",
+    "\nNo settled sen",
+    "n would,\nAnd we",
+    " pond as deep a",
+    "ce.\n\nMENENIUS:\n",
+    "d,\nWill thither",
+    "ht;\nMy inch of ",
+    " I am hungry fo",
+    "low then, for w",
+    "their breed and",
+    "o him again.\n\nS",
+    "n France again,",
+    "nd I unto the s",
+    " murder, in the",
+    "the sound that ",
+    "in the world, a",
+    "REY:\nGod keep t",
+    "'ll lay\nAnd fol",
+    "\nStands without",
+    "w\nHas these poo",
+    "nd sulphurous b",
+    " as I am, it\nwi",
+    "rial.\nMay it pl",
+    "ke him, naked, ",
+    "brave father, w",
+    " her heavy leav",
+    "r sceptre's gil",
+    "ld have enter'd",
+    "; one knocks; g",
+    "vant:\nThese wer",
+    "y which true pr",
+    "art out of brea",
+    "ggar. Then have",
+    "t nurse,--O Lor",
+    " with oaths,\nSh",
+    " so doth mine: ",
+    "we are undone a",
+    "t,\nMost dangero",
+    "ging on thy ton",
+    " had seen and h",
+    " deed whereat v",
+    "er!\nThe heaven ",
+    "hich puts some ",
+    "ominant,\nFull s",
+    " thy dear exile",
+    "d a\nremedy pres",
+    " about his head",
+    "with flies blow",
+    "ight to-morrow\n",
+    "'t, bethink you",
+    "terrestrial bal",
+    "ten coffins up ",
+    "ve\nThe present ",
+    "ving to't? Woul",
+    "oriolanus\nHe wo",
+    "Pardon me, God,",
+    "im us King of E",
+    "n till now,\nWhe",
+    " thy bridal bed",
+    "ELLA:\nI have he",
+    "ham it be put t",
+    "POLIXENES:\nThis",
+    "f Lord\nAngelo, ",
+    "me!'\n\nAll:\nWelc",
+    " pass.\n\nFirst S",
+    "n the mean time",
+    "an leave\nto thi"
+  ],
+  "results": [
+    {
+      "prompt": "I:\nWhy, Bucking",
+      "completion": " to, whe sould mick in govel wite,\nYou and grace, ",
+      "full_text": "I:\nWhy, Bucking to, whe sould mick in govel wite,\nYou and grace, ",
+      "score": 9.0
+    },
+    {
+      "prompt": " in this waning",
+      "completion": " fack.\nThat welced abt the uats in forencmediiBord",
+      "full_text": " in this waning fack.\nThat welced abt the uats in forencmediiBord",
+      "score": 10.0
+    },
+    {
+      "prompt": "ny tape,\nOr lac",
+      "completion": "k how death urseed such onese,\nThe brack, your dil",
+      "full_text": "ny tape,\nOr lack how death urseed such onese,\nThe brack, your dil",
+      "score": 11.0
+    },
+    {
+      "prompt": "usiness?\n\nQUEEN",
+      "completion": " HOMARGHAM:\nI it jitses them?\n\nPKINWARD OK:\nWoc's ",
+      "full_text": "usiness?\n\nQUEEN HOMARGHAM:\nI it jitses them?\n\nPKINWARD OK:\nWoc's ",
+      "score": 7.0
+    },
+    {
+      "prompt": ": yet if thou s",
+      "completion": "peacct you course: not\nAnd apptient mard's god uns",
+      "full_text": ": yet if thou speacct you course: not\nAnd apptient mard's god uns",
+      "score": 8.0
+    },
+    {
+      "prompt": "er.\n\nKING RICHA",
+      "completion": "RDII:\nOr wwaty this and ous well with this Creint\n",
+      "full_text": "er.\n\nKING RICHARDII:\nOr wwaty this and ous well with this Creint\n",
+      "score": 7.0
+    },
+    {
+      "prompt": "m: let him be r",
+      "completion": "istong for a coys\nBut ensery of my one shublefork ",
+      "full_text": "m: let him be ristong for a coys\nBut ensery of my one shublefork ",
+      "score": 9.0
+    },
+    {
+      "prompt": "\nNo, holy fathe",
+      "completion": "r, my EdhallK IO, to nor reto.\n\nPUTOLUCEh:\nHe base",
+      "full_text": "\nNo, holy father, my EdhallK IO, to nor reto.\n\nPUTOLUCEh:\nHe base",
+      "score": 10.0
+    },
+    {
+      "prompt": " new-deliver'd ",
+      "completion": "spall'd he where own\nThy'r and we lace the Goary.\n",
+      "full_text": " new-deliver'd spall'd he where own\nThy'r and we lace the Goary.\n",
+      "score": 11.0
+    },
+    {
+      "prompt": "ds, life and al",
+      "completion": "l rener's here,\nMe, INord, and succaus, Farly of t",
+      "full_text": "ds, life and all rener's here,\nMe, INord, and succaus, Farly of t",
+      "score": 10.0
+    },
+    {
+      "prompt": ", Guilty! guilt",
+      "completion": " ake to look the hugh dords. I I the lothe\nCoutien",
+      "full_text": ", Guilty! guilt ake to look the hugh dords. I I the lothe\nCoutien",
+      "score": 10.0
+    },
+    {
+      "prompt": "'s unprofitable",
+      "completion": ", say and honand lets\nThill than weard! not my an ",
+      "full_text": "'s unprofitable, say and honand lets\nThill than weard! not my an ",
+      "score": 7.0
+    },
+    {
+      "prompt": "self as false t",
+      "completion": "ral, my we such open her's\nIs I sirm, the prown to",
+      "full_text": "self as false tral, my we such open her's\nIs I sirm, the prown to",
+      "score": 9.0
+    },
+    {
+      "prompt": "the people, who",
+      "completion": "se and and your hist\nwhen caplains'd of of wer; fa",
+      "full_text": "the people, whose and and your hist\nwhen caplains'd of of wer; fa",
+      "score": 8.0
+    },
+    {
+      "prompt": "to Escalus and ",
+      "completion": "upon lonbe'd that that one\nmust vight so to grue t",
+      "full_text": "to Escalus and upon lonbe'd that that one\nmust vight so to grue t",
+      "score": 8.0
+    },
+    {
+      "prompt": "ef can speak no",
+      "completion": "blAlo.\nWhen, what that heave from agermw that to t",
+      "full_text": "ef can speak noblAlo.\nWhen, what that heave from agermw that to t",
+      "score": 9.0
+    },
+    {
+      "prompt": ",\nThe flowers f",
+      "completion": "aterd.\nAwhips toune this on, me for us Cojest,\nAnd",
+      "full_text": ",\nThe flowers faterd.\nAwhips toune this on, me for us Cojest,\nAnd",
+      "score": 9.0
+    },
+    {
+      "prompt": "l I live in hop",
+      "completion": "e.\n\nROMEO:\nFoly lett yeart: sy, but the bacedy bod",
+      "full_text": "l I live in hope.\n\nROMEO:\nFoly lett yeart: sy, but the bacedy bod",
+      "score": 11.0
+    },
+    {
+      "prompt": "vious streaks\nD",
+      "completion": "ide bose insios hisced his insorrif;\nBe r\nAs givas",
+      "full_text": "vious streaks\nDide bose insios hisced his insorrif;\nBe r\nAs givas",
+      "score": 9.0
+    },
+    {
+      "prompt": "at ugly sights ",
+      "completion": "groud stroned.\n\nLUCIO:\nWhich coves ongent pent hea",
+      "full_text": "at ugly sights groud stroned.\n\nLUCIO:\nWhich coves ongent pent hea",
+      "score": 10.0
+    },
+    {
+      "prompt": "should fear to ",
+      "completion": "eves may.\n\nPERTER:\nDir, lord:\nMusand you peace, ge",
+      "full_text": "should fear to eves may.\n\nPERTER:\nDir, lord:\nMusand you peace, ge",
+      "score": 12.0
+    },
+    {
+      "prompt": " God, 'tis sham",
+      "completion": ": 'tih nopt thoue.\nAsd, which shalte:\nAnd thy not ",
+      "full_text": " God, 'tis sham: 'tih nopt thoue.\nAsd, which shalte:\nAnd thy not ",
+      "score": 7.0
+    },
+    {
+      "prompt": "ake me grow:\nCo",
+      "completion": "me Alpoved his bresing be teartiagh gon in she he:",
+      "full_text": "ake me grow:\nCome Alpoved his bresing be teartiagh gon in she he:",
+      "score": 12.0
+    },
+    {
+      "prompt": "n a set hand fa",
+      "completion": "cis all and the one\nAnd bid of Ther look broth my ",
+      "full_text": "n a set hand facis all and the one\nAnd bid of Ther look broth my ",
+      "score": 8.0
+    },
+    {
+      "prompt": "I am a poor fel",
+      "completion": "lam. O seell, any falten he\nOf has tarwach ever hi",
+      "full_text": "I am a poor fellam. O seell, any falten he\nOf has tarwach ever hi",
+      "score": 11.0
+    },
+    {
+      "prompt": "y queen.\n\nGLOUC",
+      "completion": "ESTER:\nO Crisesem:\nI dokes he was us not togely.\nC",
+      "full_text": "y queen.\n\nGLOUCESTER:\nO Crisesem:\nI dokes he was us not togely.\nC",
+      "score": 12.0
+    },
+    {
+      "prompt": "nd says a wizar",
+      "completion": "d lespay.\n\nBAUNENIUGHIA; klete I rempliemperss bot",
+      "full_text": "nd says a wizard lespay.\n\nBAUNENIUGHIA; klete I rempliemperss bot",
+      "score": 12.0
+    },
+    {
+      "prompt": "f him\nTo be a v",
+      "completion": "ean heled with you leips here him\njut ento she aur",
+      "full_text": "f him\nTo be a vean heled with you leips here him\njut ento she aur",
+      "score": 13.0
+    },
+    {
+      "prompt": "ts.\nTo Bolingbr",
+      "completion": "ites the worlg'd grack-lied have but see,\nA parno'",
+      "full_text": "ts.\nTo Bolingbrites the worlg'd grack-lied have but see,\nA parno'",
+      "score": 11.0
+    },
+    {
+      "prompt": "blush or no: ho",
+      "completion": "w that as in with lif all\nThem usee the priocenpsa",
+      "full_text": "blush or no: how that as in with lif all\nThem usee the priocenpsa",
+      "score": 10.0
+    },
+    {
+      "prompt": "cuse\nThis deadl",
+      "completion": "ess bray to neshnerw:\nBull it the forficetork one ",
+      "full_text": "cuse\nThis deadless bray to neshnerw:\nBull it the forficetork one ",
+      "score": 11.0
+    },
+    {
+      "prompt": "man best; I'll ",
+      "completion": "geas his an.\n\nSICITIS: you say, and likecy my thes",
+      "full_text": "man best; I'll geas his an.\n\nSICITIS: you say, and likecy my thes",
+      "score": 8.0
+    },
+    {
+      "prompt": "w rung.\n\nDUKE V",
+      "completion": "IQUEE:\n\nIf shonoult in, bany a plake I haw,\nAnd 't",
+      "full_text": "w rung.\n\nDUKE VIQUEE:\n\nIf shonoult in, bany a plake I haw,\nAnd 't",
+      "score": 8.0
+    },
+    {
+      "prompt": "ister to poison",
+      "completion": " cannatt grake of light.\n\nDUKE VIO.\n\nLORDUS:\nCome ",
+      "full_text": "ister to poison cannatt grake of light.\n\nDUKE VIO.\n\nLORDUS:\nCome ",
+      "score": 8.0
+    },
+    {
+      "prompt": "\nNo settled sen",
+      "completion": "cerds, I but wenculd to perzent.\n\nHENRDWICH:\nI way",
+      "full_text": "\nNo settled sencerds, I but wenculd to perzent.\n\nHENRDWICH:\nI way",
+      "score": 10.0
+    },
+    {
+      "prompt": "n would,\nAnd we",
+      "completion": " as income you, and know not;\n\nLeeplaks hrough, re",
+      "full_text": "n would,\nAnd we as income you, and know not;\n\nLeeplaks hrough, re",
+      "score": 9.0
+    },
+    {
+      "prompt": " pond as deep a",
+      "completion": " nack thou reard he la--astorss;\nAnd deapin, he be",
+      "full_text": " pond as deep a nack thou reard he la--astorss;\nAnd deapin, he be",
+      "score": 10.0
+    },
+    {
+      "prompt": "ce.\n\nMENENIUS:\n",
+      "completion": "Jule, endess belf guith I'll yend, hem mere,\nWho c",
+      "full_text": "ce.\n\nMENENIUS:\nJule, endess belf guith I'll yend, hem mere,\nWho c",
+      "score": 13.0
+    },
+    {
+      "prompt": "d,\nWill thither",
+      "completion": " that will beond shalt have may rued's men\nMasting",
+      "full_text": "d,\nWill thither that will beond shalt have may rued's men\nMasting",
+      "score": 9.0
+    },
+    {
+      "prompt": "ht;\nMy inch of ",
+      "completion": "I gay, I scansice why enper way?\nThy father in tho",
+      "full_text": "ht;\nMy inch of I gay, I scansice why enper way?\nThy father in tho",
+      "score": 9.0
+    },
+    {
+      "prompt": " I am hungry fo",
+      "completion": "r I pyonesor; unly hourse made,\nAnd stay's a youth",
+      "full_text": " I am hungry for I pyonesor; unly hourse made,\nAnd stay's a youth",
+      "score": 8.0
+    },
+    {
+      "prompt": "low then, for w",
+      "completion": "ith set.\nBut the the keas quoeen of surrection,\nI ",
+      "full_text": "low then, for with set.\nBut the the keas quoeen of surrection,\nI ",
+      "score": 12.0
+    },
+    {
+      "prompt": "their breed and",
+      "completion": " arge it vilast.\n\nPUL:\nWhlencutus we in upry the I",
+      "full_text": "their breed and arge it vilast.\n\nPUL:\nWhlencutus we in upry the I",
+      "score": 9.0
+    },
+    {
+      "prompt": "o him again.\n\nS",
+      "completion": "tilds Romer Of lideme, 'Ton, then wen that fath th",
+      "full_text": "o him again.\n\nStilds Romer Of lideme, 'Ton, then wen that fath th",
+      "score": 10.0
+    },
+    {
+      "prompt": "n France again,",
+      "completion": " and it vury!\n\nARGET:\nCommederve: thy ame, I out w",
+      "full_text": "n France again, and it vury!\n\nARGET:\nCommederve: thy ame, I out w",
+      "score": 10.0
+    },
+    {
+      "prompt": "nd I unto the s",
+      "completion": "pracce,\nFir may Ighow the his not their mise ufful",
+      "full_text": "nd I unto the spracce,\nFir may Ighow the his not their mise ufful",
+      "score": 9.0
+    },
+    {
+      "prompt": " murder, in the",
+      "completion": "e keasd\nMy Richmasser not my quates\nHow caus ere a",
+      "full_text": " murder, in thee keasd\nMy Richmasser not my quates\nHow caus ere a",
+      "score": 11.0
+    },
+    {
+      "prompt": "the sound that ",
+      "completion": "seevem to vitess:\nOrway congro. deforce han sean p",
+      "full_text": "the sound that seevem to vitess:\nOrway congro. deforce han sean p",
+      "score": 12.0
+    },
+    {
+      "prompt": "in the world, a",
+      "completion": "nd reamnous?\nFlige Rame, but hith exer hently, the",
+      "full_text": "in the world, and reamnous?\nFlige Rame, but hith exer hently, the",
+      "score": 12.0
+    },
+    {
+      "prompt": "REY:\nGod keep t",
+      "completion": "hat croudess wond thnoug comme,\nIf do pallantss so",
+      "full_text": "REY:\nGod keep that croudess wond thnoug comme,\nIf do pallantss so",
+      "score": 7.0
+    },
+    {
+      "prompt": "'ll lay\nAnd fol",
+      "completion": "ly bean man as wrinder; nobles you cild.\n\nJULIECET",
+      "full_text": "'ll lay\nAnd folly bean man as wrinder; nobles you cild.\n\nJULIECET",
+      "score": 10.0
+    },
+    {
+      "prompt": "\nStands without",
+      "completion": "\nThe ame rembudy, Erland frient out?\n\nFirst INIUin",
+      "full_text": "\nStands without\nThe ame rembudy, Erland frient out?\n\nFirst INIUin",
+      "score": 10.0
+    },
+    {
+      "prompt": "w\nHas these poo",
+      "completion": "r to due arm ruch'd thy lone,\nNor hope I hell tank",
+      "full_text": "w\nHas these poor to due arm ruch'd thy lone,\nNor hope I hell tank",
+      "score": 9.0
+    },
+    {
+      "prompt": "nd sulphurous b",
+      "completion": "ut the praain,\nWhif word by commelve ond you count",
+      "full_text": "nd sulphurous but the praain,\nWhif word by commelve ond you count",
+      "score": 8.0
+    },
+    {
+      "prompt": " as I am, it\nwi",
+      "completion": "ll courdorn, begges, tooks her gone.\nGo, beneed a ",
+      "full_text": " as I am, it\nwill courdorn, begges, tooks her gone.\nGo, beneed a ",
+      "score": 12.0
+    },
+    {
+      "prompt": "rial.\nMay it pl",
+      "completion": "eat reice the by honour xendss to thee hacrove:\nWh",
+      "full_text": "rial.\nMay it pleat reice the by honour xendss to thee hacrove:\nWh",
+      "score": 13.0
+    },
+    {
+      "prompt": "ke him, naked, ",
+      "completion": "coin wid in which eyk to\nThid love unwar'd me not ",
+      "full_text": "ke him, naked, coin wid in which eyk to\nThid love unwar'd me not ",
+      "score": 8.0
+    },
+    {
+      "prompt": "brave father, w",
+      "completion": "hat king af trurey\nThingoness chshould andchies Ki",
+      "full_text": "brave father, what king af trurey\nThingoness chshould andchies Ki",
+      "score": 8.0
+    },
+    {
+      "prompt": " her heavy leav",
+      "completion": "e, my with my thune:\nRock Now Eit my faind though ",
+      "full_text": " her heavy leave, my with my thune:\nRock Now Eit my faind though ",
+      "score": 8.0
+    },
+    {
+      "prompt": "r sceptre's gil",
+      "completion": "les am straalte; as face haw ban\nA mee for creply ",
+      "full_text": "r sceptre's gilles am straalte; as face haw ban\nA mee for creply ",
+      "score": 11.0
+    },
+    {
+      "prompt": "ld have enter'd",
+      "completion": " not to galt the Juliante.\n\nABUS:\nSay, your give u",
+      "full_text": "ld have enter'd not to galt the Juliante.\n\nABUS:\nSay, your give u",
+      "score": 8.0
+    },
+    {
+      "prompt": "; one knocks; g",
+      "completion": "ind!\nMy fame younes lips it havis,\nHe my behers, I",
+      "full_text": "; one knocks; gind!\nMy fame younes lips it havis,\nHe my behers, I",
+      "score": 10.0
+    },
+    {
+      "prompt": "vant:\nThese wer",
+      "completion": "e endeMie;\nOr follo, knot bais all I she head; I'l",
+      "full_text": "vant:\nThese were endeMie;\nOr follo, knot bais all I she head; I'l",
+      "score": 11.0
+    },
+    {
+      "prompt": "y which true pr",
+      "completion": "oy-come,\nOr at To staind read's men at it that pre",
+      "full_text": "y which true proy-come,\nOr at To staind read's men at it that pre",
+      "score": 9.0
+    },
+    {
+      "prompt": "art out of brea",
+      "completion": "ther?\n\nBUCKINGHING?\n\nGSOFtUCEJT:\nIbut oorce, your:",
+      "full_text": "art out of breather?\n\nBUCKINGHING?\n\nGSOFtUCEJT:\nIbut oorce, your:",
+      "score": 8.0
+    },
+    {
+      "prompt": "ggar. Then have",
+      "completion": " wo shabld,\nWhat stay teeve where he mothess cares",
+      "full_text": "ggar. Then have wo shabld,\nWhat stay teeve where he mothess cares",
+      "score": 13.0
+    },
+    {
+      "prompt": "t nurse,--O Lor",
+      "completion": "ds the mal in in Apalent.\n\nLETSS:\nKay con the the ",
+      "full_text": "t nurse,--O Lords the mal in in Apalent.\n\nLETSS:\nKay con the the ",
+      "score": 10.0
+    },
+    {
+      "prompt": " with oaths,\nSh",
+      "completion": "all ben my will king-me, the an bud whenk.\nWhen Fo",
+      "full_text": " with oaths,\nShall ben my will king-me, the an bud whenk.\nWhen Fo",
+      "score": 10.0
+    },
+    {
+      "prompt": " so doth mine: ",
+      "completion": "dill, boy of what I othe come?\nTo be out the bothe",
+      "full_text": " so doth mine: dill, boy of what I othe come?\nTo be out the bothe",
+      "score": 10.0
+    },
+    {
+      "prompt": "we are undone a",
+      "completion": "s speat\nevegrn it out, by his signy and oward the ",
+      "full_text": "we are undone as speat\nevegrn it out, by his signy and oward the ",
+      "score": 9.0
+    },
+    {
+      "prompt": "t,\nMost dangero",
+      "completion": "ud, shought hear morrill to our nes\nYech seet he f",
+      "full_text": "t,\nMost dangeroud, shought hear morrill to our nes\nYech seet he f",
+      "score": 11.0
+    },
+    {
+      "prompt": "ging on thy ton",
+      "completion": "e.\n\nHERMIANIUS:\nI shy the dear?\n\nKING RICHIH:\nYelf",
+      "full_text": "ging on thy tone.\n\nHERMIANIUS:\nI shy the dear?\n\nKING RICHIH:\nYelf",
+      "score": 10.0
+    },
+    {
+      "prompt": " had seen and h",
+      "completion": "e one his nenter\nSur'd as concio, wetelf thou sfy ",
+      "full_text": " had seen and he one his nenter\nSur'd as concio, wetelf thou sfy ",
+      "score": 11.0
+    },
+    {
+      "prompt": " deed whereat v",
+      "completion": "inishin, of thou tookess\nThat cutsend you: to laye",
+      "full_text": " deed whereat vinishin, of thou tookess\nThat cutsend you: to laye",
+      "score": 8.0
+    },
+    {
+      "prompt": "er!\nThe heaven ",
+      "completion": "my'd beat\nAnd plose, my it ot bliddluink, I them t",
+      "full_text": "er!\nThe heaven my'd beat\nAnd plose, my it ot bliddluink, I them t",
+      "score": 8.0
+    },
+    {
+      "prompt": "hich puts some ",
+      "completion": "look envech\nis be awer ell une vay, yank achI hat ",
+      "full_text": "hich puts some look envech\nis be awer ell une vay, yank achI hat ",
+      "score": 11.0
+    },
+    {
+      "prompt": "ominant,\nFull s",
+      "completion": "picems this thow en\nthuse ose on parcuthiougn now ",
+      "full_text": "ominant,\nFull spicems this thow en\nthuse ose on parcuthiougn now ",
+      "score": 9.0
+    },
+    {
+      "prompt": " thy dear exile",
+      "completion": "s trains.\nI, what yew myself whe reant, deater as ",
+      "full_text": " thy dear exiles trains.\nI, what yew myself whe reant, deater as ",
+      "score": 11.0
+    },
+    {
+      "prompt": "d a\nremedy pres",
+      "completion": "t the well not, in men nempradtume,\nFor Vordsain'd",
+      "full_text": "d a\nremedy prest the well not, in men nempradtume,\nFor Vordsain'd",
+      "score": 10.0
+    },
+    {
+      "prompt": " about his head",
+      "completion": " fisendee never eRoquET:\nNold Nuch, uncho\nAnd not ",
+      "full_text": " about his head fisendee never eRoquET:\nNold Nuch, uncho\nAnd not ",
+      "score": 12.0
+    },
+    {
+      "prompt": "with flies blow",
+      "completion": "!\nHay down yet it umisant to losad abby,\nWhy belig",
+      "full_text": "with flies blow!\nHay down yet it umisant to losad abby,\nWhy belig",
+      "score": 7.0
+    },
+    {
+      "prompt": "ight to-morrow\n",
+      "completion": "hith tis smeand ham lew dest underies! if OneniO\nT",
+      "full_text": "ight to-morrow\nhith tis smeand ham lew dest underies! if OneniO\nT",
+      "score": 11.0
+    },
+    {
+      "prompt": "'t, bethink you",
+      "completion": "r now our make,\nNow day nor wife, mthem'ded's not ",
+      "full_text": "'t, bethink your now our make,\nNow day nor wife, mthem'ded's not ",
+      "score": 9.0
+    },
+    {
+      "prompt": "terrestrial bal",
+      "completion": "ly lord!\nFor nat my not and in chaldel tisherness\n",
+      "full_text": "terrestrial bally lord!\nFor nat my not and in chaldel tisherness\n",
+      "score": 8.0
+    },
+    {
+      "prompt": "ten coffins up ",
+      "completion": "wern;\nNot now so of will lojuy.\n\nBRUCUTES:\nCanius,",
+      "full_text": "ten coffins up wern;\nNot now so of will lojuy.\n\nBRUCUTES:\nCanius,",
+      "score": 7.0
+    },
+    {
+      "prompt": "ve\nThe present ",
+      "completion": "nother of but\nhilp he lond, Stay, ack, disue I wil",
+      "full_text": "ve\nThe present nother of but\nhilp he lond, Stay, ack, disue I wil",
+      "score": 8.0
+    },
+    {
+      "prompt": "ving to't? Woul",
+      "completion": "d mriban's so,\nStay spack will a wen will bettof h",
+      "full_text": "ving to't? Would mriban's so,\nStay spack will a wen will bettof h",
+      "score": 7.0
+    },
+    {
+      "prompt": "oriolanus\nHe wo",
+      "completion": "unds are toold or besing bon not shall deefh\nuir d",
+      "full_text": "oriolanus\nHe wounds are toold or besing bon not shall deefh\nuir d",
+      "score": 9.0
+    },
+    {
+      "prompt": "Pardon me, God,",
+      "completion": " for not it he a the work:\nWhat you it lents the s",
+      "full_text": "Pardon me, God, for not it he a the work:\nWhat you it lents the s",
+      "score": 9.0
+    },
+    {
+      "prompt": "im us King of E",
+      "completion": "dwind, thinks,\nAnd knunsed my you, wastet swaic.\n\n",
+      "full_text": "im us King of Edwind, thinks,\nAnd knunsed my you, wastet swaic.\n\n",
+      "score": 7.0
+    },
+    {
+      "prompt": "n till now,\nWhe",
+      "completion": "n's in not at enstanngued whant weor fell,\nAnd for",
+      "full_text": "n till now,\nWhen's in not at enstanngued whant weor fell,\nAnd for",
+      "score": 9.0
+    },
+    {
+      "prompt": " thy bridal bed",
+      "completion": "ting chartius lanXel.\n\nYOw, he ear, as miry mound:",
+      "full_text": " thy bridal bedting chartius lanXel.\n\nYOw, he ear, as miry mound:",
+      "score": 8.0
+    },
+    {
+      "prompt": "ELLA:\nI have he",
+      "completion": "'ll uncurdent won to fatce to yigh;\nWhat cencoush ",
+      "full_text": "ELLA:\nI have he'll uncurdent won to fatce to yigh;\nWhat cencoush ",
+      "score": 8.0
+    },
+    {
+      "prompt": "ham it be put t",
+      "completion": "he at dowar? SO:\nFert Musege a your my all, one th",
+      "full_text": "ham it be put the at dowar? SO:\nFert Musege a your my all, one th",
+      "score": 10.0
+    },
+    {
+      "prompt": "POLIXENES:\nThis",
+      "completion": " Mestcery comme arme ot. The shir?\nWhis han with f",
+      "full_text": "POLIXENES:\nThis Mestcery comme arme ot. The shir?\nWhis han with f",
+      "score": 10.0
+    },
+    {
+      "prompt": "f Lord\nAngelo, ",
+      "completion": "and bitilline on arriice deveer wont.\n\nKING RICHBR",
+      "full_text": "f Lord\nAngelo, and bitilline on arriice deveer wont.\n\nKING RICHBR",
+      "score": 10.0
+    },
+    {
+      "prompt": "me!'\n\nAll:\nWelc",
+      "completion": "h tecent'd thatt shat you friet,\nThis murgh not so",
+      "full_text": "me!'\n\nAll:\nWelch tecent'd thatt shat you friet,\nThis murgh not so",
+      "score": 8.0
+    },
+    {
+      "prompt": " pass.\n\nFirst S",
+      "completion": "emer:\nMirdlam forn,-the must VINI:\nAs not pares ye",
+      "full_text": " pass.\n\nFirst Semer:\nMirdlam forn,-the must VINI:\nAs not pares ye",
+      "score": 10.0
+    },
+    {
+      "prompt": "n the mean time",
+      "completion": " textaitum and his,\nPunry the dight lord whosever ",
+      "full_text": "n the mean time textaitum and his,\nPunry the dight lord whosever ",
+      "score": 9.0
+    },
+    {
+      "prompt": "an leave\nto thi",
+      "completion": "ght sid fatctor's his o' say not\nBeloady'lce choul",
+      "full_text": "an leave\nto thight sid fatctor's his o' say not\nBeloady'lce choul",
+      "score": 7.0
+    }
+  ],
+  "statistics": {
+    "mean": 9.52,
+    "std": 1.6029971927611102,
+    "min": 7.0,
+    "max": 13.0,
+    "median": 9.0,
+    "count": 100
+  },
+  "metadata": {
+    "num_prompts": 100,
+    "prompt_length": 15,
+    "max_new_tokens": 50,
+    "model_path": "out-shakespeare-char/ckpt.pt",
+    "verifier": "e_count + 0.1*length"
+  }
+}
